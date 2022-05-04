@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/christian/personal_project/swift/Test/SwiftUI-Without-Padding.xcodeproj">
    </FileRef>
 </Workspace>
